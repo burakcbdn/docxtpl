@@ -14,7 +14,7 @@ dependencies:
 
   http: ^0.12.2
   archive: ^2.0.13
-  xml: ^4.5.1
+  xml: ^5.1.0
   path: ^1.7.0
 
 dev_dependencies:
